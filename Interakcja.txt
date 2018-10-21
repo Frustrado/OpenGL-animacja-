@@ -1,0 +1,9 @@
+Obs³uga interakcji:
+
+KAMERA:
+	A,D - obs³uga kamery(w linii poziomej)
+	W,S- obs³uga kamery(w linii pionowej)
+	ruch myszk¹ - ruchy kamery(obroty)
+RUCH: 
+	LEWA STRZA£KA - obrót ¿arna w lewo
+	PRAWA STRZA£KA - obrót ¿arna w prawo
